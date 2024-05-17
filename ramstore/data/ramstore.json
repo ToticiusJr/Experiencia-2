@@ -1,0 +1,38 @@
+{
+    "ramstore":[
+        {
+            "nombre":"Cristobal Munoz",
+            "email":"cristotogei345@gmail.com",
+            "password":"totogei",
+            "fechaNacimiento":"04/22/2004",
+            "direccion":"San Manuel sitio 6"
+        },
+        {
+            "nombre":"Gabriel Guerra",
+            "email":"gabrieltomas2003@gmail.com",
+            "password":"gaboweko",
+            "fechaNacimiento":"02/12/2003",
+            "direccion":"Barrio las encinas "
+        },
+        {
+            "nombre":"Kevin Munoz",
+            "email":"kevinmunozWeko@gmail.com",
+            "password":"kevinsutro",
+            "fechaNacimiento":"06/06/1945",
+            "direccion":"Quilicura"
+        },
+        {
+            "nombre":"Matias Duran",
+            "email":"maticonalopecia@gmail.com",
+            "password":"pololodevivi",
+            "fechaNacimiento":"11/11/1801",
+            "direccion":"Colhueco"
+        },
+        {
+            "nombre":"Bryan Benito Emanuel",
+            "email":"BryanTopSimbol2024@REALHASTALAMUERTE.com",
+            "fechaNacimiento":"01/01/3000",
+            "direccion":"Las Tunas Cuba 2262"
+        }
+    ]
+}
